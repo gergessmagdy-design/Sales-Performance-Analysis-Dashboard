@@ -68,6 +68,9 @@ This project presents an interactive **Power BI Dashboard** designed to analyze 
 
 This project demonstrates end-to-end data analysis, from raw data preparation to actionable business insights.
 
-**Developed by Gergess Magdy**  
+**Developed by Gergess Magdy**
 *Feel free to reach out for any questions regarding the data model or visualizations!*
+
+*LinkedIn: [www.linkedin.com/in/gergess-magdy-b93790311]*
+
 
