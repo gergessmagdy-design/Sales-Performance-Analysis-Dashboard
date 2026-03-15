@@ -45,16 +45,16 @@ This project presents an interactive **Power BI Dashboard** designed to analyze 
 ## 🖼️ Dashboard Preview
 
 ### **Main Dashboard Overview**
-![Overview](Overview.png)
+![Overview](/Picture/Overview.png)
 
 ### **Sales by Product Line**
-![Product Line](Product_Line.png)
+![Product Line](/Picture/Product_Line.png)
 
 ### **Monthly Trends & Gross Income**
-![Monthly Trends](Monthly_Trends.png)
+![Monthly Trends](/Picture/Monthly_Trends.png)
 
 ### **Detailed Business Insights**
-![Business Insights](Business_Insights.png)
+![Business Insights](/Picture/Business_Insights.png)
 
 ---
 
