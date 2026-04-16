@@ -39,7 +39,7 @@ The goal of this project is to analyze sales data and build an interactive dashb
 
 ### **Main Dashboard Overview**
 ![Overview](/Picture/Overview.png)
-
+The dashboard is fully interactive and allows filtering by region, product, and time period to explore insights dynamically.
 ### **Sales by Product Line**
 ![Product Line](/Picture/Product_Line.png)
 
