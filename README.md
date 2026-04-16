@@ -24,10 +24,11 @@ The goal of this project is to analyze sales data and build an interactive dashb
 - Comparison across regions and product categories
 
 ## 📈 Key Insights
-- Top 3 products contribute to approximately 60% of total revenue, indicating strong product concentration
-- Sales decreased by around 15% during Q3 compared to Q2, highlighting potential seasonal impact
-- The East region generates the highest revenue, making it a key market for business growth
-- Certain product categories show consistent growth trends, representing expansion opportunities
+- Sales Trend & Recovery: March recorded the peak performance of the quarter with $109K in sales. This represents a strong recovery after a noticeable decline in February, where sales dipped to $97K.
+- Top Revenue Stream: The Food and Beverages product line is the top performer, contributing $56.14K to total revenue. It consistently leads in both gross income and overall sales volume.
+- Market Distribution: Sales across cities are highly balanced, indicating a stable market presence. Naypyitaw maintains a slight lead, accounting for 34.24% of the total branch sales.
+- Customer Demographics: Female customers exhibit a higher purchase volume compared to males. This insight suggests an opportunity for gender-targeted marketing campaigns to further drive growth.
+- Operational Efficiency: Total Gross Income for the quarter reached $15.38K, supported by a Total Sales volume of $322.97K across all product categories.
 
 ## 💡 Business Recommendations
 - Focus marketing efforts on top-performing products to maximize ROI
