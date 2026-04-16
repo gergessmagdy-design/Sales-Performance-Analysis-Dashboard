@@ -35,8 +35,20 @@ The goal of this project is to analyze sales data and build an interactive dashb
 - Leverage seasonal trends to optimize inventory and campaigns
 - Expand high-growth product categories to increase revenue
 
-## 📸 Dashboard Preview
-![Dashboard Screenshot](/Picture/Overview.png)
+## 🖼️ Dashboard Preview
+
+### **Main Dashboard Overview**
+![Overview](/Picture/Overview.png)
+
+### **Sales by Product Line**
+![Product Line](/Picture/Product_Line.png)
+
+### **Monthly Trends & Gross Income**
+![Monthly Trends](/Picture/Monthly_Trends.png)
+
+### **Detailed Business Insights**
+![Business Insights](/Picture/Business_Insights.png)
+
 
 ## 📁 Project Structure
 - `Sales Dashboard.pbix` → Power BI dashboard file
