@@ -1,4 +1,5 @@
 # 📊 Sales Performance Analysis Dashboard
+An interactive Power BI dashboard designed to help businesses track revenue, identify top-performing products, and uncover sales trends to drive better decisions.
 
 ## 🧩 Business Scenario
 This project simulates a real-world business case where a company needs to track sales performance across regions and products to improve revenue and identify growth opportunities.
@@ -23,16 +24,16 @@ The goal of this project is to analyze sales data and build an interactive dashb
 - Comparison across regions and product categories
 
 ## 📈 Key Insights
-- Top 3 products contribute to approximately 60% of total revenue
-- Sales decreased by around 15% during Q3 compared to Q2
-- The East region generates the highest revenue among all regions
-- Some product categories show consistent growth over time
+- Top 3 products contribute to approximately 60% of total revenue, indicating strong product concentration
+- Sales decreased by around 15% during Q3 compared to Q2, highlighting potential seasonal impact
+- The East region generates the highest revenue, making it a key market for business growth
+- Certain product categories show consistent growth trends, representing expansion opportunities
 
 ## 💡 Business Recommendations
-- Focus marketing efforts on top-performing products
-- Investigate underperforming regions and optimize strategy
-- Leverage seasonal trends to maximize revenue
-- Expand high-growth product categories
+- Focus marketing efforts on top-performing products to maximize ROI
+- Investigate underperforming regions and adjust sales strategies
+- Leverage seasonal trends to optimize inventory and campaigns
+- Expand high-growth product categories to increase revenue
 
 ## 📸 Dashboard Preview
 ![Dashboard Screenshot](/Picture/Overview.png)
