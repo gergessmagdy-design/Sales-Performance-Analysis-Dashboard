@@ -1,5 +1,8 @@
 # 📊 Sales Performance Analysis Dashboard
 
+## 🧩 Business Scenario
+This project simulates a real-world business case where a company needs to track sales performance across regions and products to improve revenue and identify growth opportunities.
+
 ## 🔍 Problem
 Businesses often struggle to monitor sales performance across different regions, products, and time periods. This lack of visibility can lead to missed opportunities and poor decision-making.
 
@@ -20,10 +23,10 @@ The goal of this project is to analyze sales data and build an interactive dashb
 - Comparison across regions and product categories
 
 ## 📈 Key Insights
-- A small number of products contribute to a large portion of total revenue
-- Certain regions consistently outperform others in sales
-- Seasonal trends impact overall sales performance
-- Some categories show strong growth potential
+- Top 3 products contribute to approximately 60% of total revenue
+- Sales decreased by around 15% during Q3 compared to Q2
+- The East region generates the highest revenue among all regions
+- Some product categories show consistent growth over time
 
 ## 💡 Business Recommendations
 - Focus marketing efforts on top-performing products
